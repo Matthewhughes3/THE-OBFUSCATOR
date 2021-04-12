@@ -1,5 +1,7 @@
 # THE-OBFUSCATOR
-Guaranteed to at least quadruple your bundle size
+Guaranteed to at least quadruple your bundle size.
+
+Turn any valid JS into a combination of the characters ({[/>+!=\]})
 
 ## Installation
 
