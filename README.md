@@ -1,4 +1,4 @@
-# THE-OBFUSCATOR
+# THE OBFUSCATOR
 Guaranteed to at least quadruple your bundle size.
 
 Turn any valid JS into a combination of the characters ({[/>+!=\]})
